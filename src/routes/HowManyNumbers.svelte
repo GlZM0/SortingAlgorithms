@@ -1,8 +1,5 @@
-<script>
-	/**
-	 * @type {any}
-	 */
-	export let inputHowManyNumbers;
+<script lang="ts">
+	export let inputHowManyNumbers: number;
 </script>
 
 <div class="form-control">

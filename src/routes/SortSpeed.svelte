@@ -1,6 +1,4 @@
 <script>
-	// @ts-nocheck
-
 	import SortSpeedOptions from './SortSpeedOptions.svelte';
 
 	export let speed = [
@@ -10,6 +8,7 @@
 		{ id: 4, text: 'Very Fast' },
 		{ id: 5, text: 'I am speed' }
 	];
+
 	/**
 	 * @type {any}
 	 */
