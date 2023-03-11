@@ -7,9 +7,11 @@ Simple application where you can use one of the most popular sorting algorithms.
 ```bash
 
 # start the server
+npm install
 npm run dev
 
 # or start the server and open the app in a new browser tab
+npm install
 npm run dev -- --open
 
 ```
